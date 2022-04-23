@@ -1,0 +1,14 @@
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\bin\Debug\net6.0\CurrenciesProject.Data.deps.json
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\bin\Debug\net6.0\CurrenciesProject.Data.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\bin\Debug\net6.0\ref\CurrenciesProject.Data.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\bin\Debug\net6.0\CurrenciesProject.Data.pdb
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\obj\Debug\net6.0\CurrenciesProject.Data.csproj.AssemblyReference.cache
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\obj\Debug\net6.0\CurrenciesProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\obj\Debug\net6.0\CurrenciesProject.Data.AssemblyInfoInputs.cache
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\obj\Debug\net6.0\CurrenciesProject.Data.AssemblyInfo.cs
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\obj\Debug\net6.0\CurrenciesProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\obj\Debug\net6.0\CurrenciesProject.Data.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\obj\Debug\net6.0\ref\CurrenciesProject.Data.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\obj\Debug\net6.0\CurrenciesProject.Data.pdb
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\bin\Debug\net6.0\CurrenciesProject.Data.runtimeconfig.json
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Data\obj\Debug\net6.0\CurrenciesProject.Data.genruntimeconfig.cache

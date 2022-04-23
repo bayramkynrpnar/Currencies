@@ -1,0 +1,17 @@
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\bin\Debug\net6.0\CurrenciesProject.Core.deps.json
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\bin\Debug\net6.0\CurrenciesProject.Core.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\bin\Debug\net6.0\ref\CurrenciesProject.Core.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\bin\Debug\net6.0\CurrenciesProject.Core.pdb
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\obj\Debug\net6.0\CurrenciesProject.Core.csproj.AssemblyReference.cache
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\obj\Debug\net6.0\CurrenciesProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\obj\Debug\net6.0\CurrenciesProject.Core.AssemblyInfoInputs.cache
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\obj\Debug\net6.0\CurrenciesProject.Core.AssemblyInfo.cs
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\obj\Debug\net6.0\CurrenciesProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\obj\Debug\net6.0\CurrenciesProject.Core.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\obj\Debug\net6.0\ref\CurrenciesProject.Core.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\obj\Debug\net6.0\CurrenciesProject.Core.pdb
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\bin\Debug\net6.0\CurrenciesProject.Data.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\bin\Debug\net6.0\CurrenciesProject.DataAccess.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\bin\Debug\net6.0\CurrenciesProject.DataAccess.pdb
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\bin\Debug\net6.0\CurrenciesProject.Data.pdb
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.Core\obj\Debug\net6.0\CurrenciesProject.Core.csproj.CopyComplete

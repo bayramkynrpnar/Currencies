@@ -1,0 +1,12 @@
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\bin\Debug\net6.0\CurrenciesProject.DataAccess.deps.json
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\bin\Debug\net6.0\CurrenciesProject.DataAccess.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\bin\Debug\net6.0\ref\CurrenciesProject.DataAccess.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\bin\Debug\net6.0\CurrenciesProject.DataAccess.pdb
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\obj\Debug\net6.0\CurrenciesProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\obj\Debug\net6.0\CurrenciesProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\obj\Debug\net6.0\CurrenciesProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\obj\Debug\net6.0\CurrenciesProject.DataAccess.AssemblyInfo.cs
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\obj\Debug\net6.0\CurrenciesProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\obj\Debug\net6.0\CurrenciesProject.DataAccess.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\obj\Debug\net6.0\ref\CurrenciesProject.DataAccess.dll
+C:\Users\P1896\source\repos\CurrenciesProject\CurrenciesProject.DataAccess\obj\Debug\net6.0\CurrenciesProject.DataAccess.pdb

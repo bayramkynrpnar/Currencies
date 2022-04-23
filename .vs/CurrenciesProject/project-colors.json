@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cad174c-0096-4518-9757-f85f616a53f0": {
+      "ProjectGuid": "1cad174c-0096-4518-9757-f85f616a53f0",
+      "DisplayName": "CurrenciesProject",
+      "ColorIndex": 0
+    },
+    "3b733d8d-525a-45b3-8625-f86c8b160f29": {
+      "ProjectGuid": "3b733d8d-525a-45b3-8625-f86c8b160f29",
+      "DisplayName": "CurrenciesProject.Data",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8564c511-889f-41ff-a5bb-6a64abdd2180": {
+      "ProjectGuid": "8564c511-889f-41ff-a5bb-6a64abdd2180",
+      "DisplayName": "CurrenciesProject.DataAccess",
+      "ColorIndex": 2
+    },
+    "7361fe69-ed77-40cd-a3ae-89b338665036": {
+      "ProjectGuid": "7361fe69-ed77-40cd-a3ae-89b338665036",
+      "DisplayName": "CurrenciesProject.Business",
+      "ColorIndex": 3
+    },
+    "4356ccc8-2482-4c42-b86a-e4fbcbe13e22": {
+      "ProjectGuid": "4356ccc8-2482-4c42-b86a-e4fbcbe13e22",
+      "DisplayName": "CurrenciesProject.Business",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

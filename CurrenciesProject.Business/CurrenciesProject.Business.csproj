@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="107.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CurrenciesProject.Core\CurrenciesProject.Core.csproj" />
+    <ProjectReference Include="..\CurrenciesProject.DataAccess\CurrenciesProject.DataAccess.csproj" />
+    <ProjectReference Include="..\CurrenciesProject.Data\CurrenciesProject.Data.csproj" />
+  </ItemGroup>
+
+</Project>
