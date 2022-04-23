@@ -51,10 +51,6 @@ namespace CurrenciesProject.Business.Services
             using (var uow = new UnitOfWork<MasterContext>())
             {
                 var currencies = uow.GetRepository<Currency>().GetAll(x => x.CurrencyCode == currency).OrderBy(x => x.Date).ToList();
-                if (currencies == null)
-                {
-                    return null;
-                }
                 if (currencies.Count >= 2)
                 {
                     changesDto.Add(new ChangesDto
