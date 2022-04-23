@@ -24,7 +24,7 @@ namespace CurrenciesProject.Business.Jobs
         {
             IScheduler scheduler = Start();
             IJobDetail jobCurrency = JobBuilder.Create<GetCurrencyJob>().WithIdentity("GetCurrencyJob", null).Build();
-            var simpleTrigger = TriggerBuilder.Create().WithIdentity("GetCurrencyJob").StartAt(DateTime.UtcNow).WithCronSchedule("0 16 15 ? * *").Build();
+            var simpleTrigger = TriggerBuilder.Create().WithIdentity("GetCurrencyJob").StartAt(DateTime.UtcNow).WithCronSchedule("0 00 08 ? * *").Build();
             scheduler.ScheduleJob(jobCurrency, simpleTrigger);
         }
     }
