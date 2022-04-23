@@ -3,9 +3,8 @@ using System.Xml.Serialization;
 
 
 [Serializable()]
-[System.ComponentModel.DesignerCategory("code")]
 [XmlType(AnonymousType = true, TypeName = "Tarih_Date")]
-[XmlRoot(Namespace = "", IsNullable = false, ElementName = "Tarih_Date")]
+[XmlRoot(IsNullable = false, ElementName = "Tarih_Date")]
 public class Dates
 {
     [XmlElement("Currency")]
