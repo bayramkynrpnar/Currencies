@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrenciesProject.DataAcces
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrenciesProject.Business", "CurrenciesProject.Business\CurrenciesProject.Business.csproj", "{4356CCC8-2482-4C42-B86A-E4FBCBE13E22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrenciesProject.Core", "CurrenciesProject.Core\CurrenciesProject.Core.csproj", "{54290D0D-2F6C-40F3-9D03-2681C19723DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrenciesProject.Core", "CurrenciesProject.Core\CurrenciesProject.Core.csproj", "{54290D0D-2F6C-40F3-9D03-2681C19723DB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{54EBCECB-3728-4C52-B227-25C18B574FAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrenciesProject.Business.Test", "CurrenciesProject.Business.Test\CurrenciesProject.Business.Test.csproj", "{96448373-1AB1-41D2-9468-B126EDBB1E16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrenciesProject.Business.Test", "CurrenciesProject.Business.Test\CurrenciesProject.Business.Test.csproj", "{96448373-1AB1-41D2-9468-B126EDBB1E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrenciesProject.Core.Test", "CurrenciesProject.Core.Test\CurrenciesProject.Core.Test.csproj", "{8603313B-733D-4623-A241-6B995E33E4A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,12 +49,17 @@ Global
 		{96448373-1AB1-41D2-9468-B126EDBB1E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96448373-1AB1-41D2-9468-B126EDBB1E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96448373-1AB1-41D2-9468-B126EDBB1E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8603313B-733D-4623-A241-6B995E33E4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8603313B-733D-4623-A241-6B995E33E4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8603313B-733D-4623-A241-6B995E33E4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8603313B-733D-4623-A241-6B995E33E4A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{96448373-1AB1-41D2-9468-B126EDBB1E16} = {54EBCECB-3728-4C52-B227-25C18B574FAE}
+		{8603313B-733D-4623-A241-6B995E33E4A5} = {54EBCECB-3728-4C52-B227-25C18B574FAE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3E0FED5B-A60D-40E9-BD9C-DB9871368173}
