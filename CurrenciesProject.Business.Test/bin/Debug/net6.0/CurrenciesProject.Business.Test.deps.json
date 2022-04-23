@@ -9,6 +9,7 @@
       "CurrenciesProject.Business.Test/1.0.0": {
         "dependencies": {
           "CurrenciesProject.Business": "1.0.0",
+          "CurrenciesProject.Data": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.11.0",
           "coverlet.collector": "3.1.0",
           "xunit": "2.4.1",
@@ -1358,8 +1359,6 @@
       },
       "CurrenciesProject.Core/1.0.0": {
         "dependencies": {
-          "CurrenciesProject.Data": "1.0.0",
-          "CurrenciesProject.DataAccess": "1.0.0",
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Newtonsoft.Json": "13.0.1",
           "Quartz": "3.4.0",

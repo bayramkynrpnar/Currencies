@@ -1,15 +1,11 @@
-﻿using CurrenciesProject.Data;
+﻿using CurrenciesProject.Core.Helper;
+using CurrenciesProject.Data;
 using CurrenciesProject.Data.Context;
 using CurrenciesProject.DataAccess;
 using Quartz;
 using Quartz.Impl;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace CurrenciesProject.Core.Jobs
+namespace CurrenciesProject.Business.Jobs
 {
     public class GetCurrencyScheduler
     {
@@ -28,7 +24,7 @@ namespace CurrenciesProject.Core.Jobs
         {
             IScheduler scheduler = Start();
             IJobDetail jobCurrency = JobBuilder.Create<GetCurrencyJob>().WithIdentity("GetCurrencyJob", null).Build();
-            var simpleTrigger = TriggerBuilder.Create().WithIdentity("GetCurrencyJob").StartAt(DateTime.UtcNow).WithCronSchedule("0 49 05 ? * *").Build();
+            var simpleTrigger = TriggerBuilder.Create().WithIdentity("GetCurrencyJob").StartAt(DateTime.UtcNow).WithCronSchedule("0 16 15 ? * *").Build();
             scheduler.ScheduleJob(jobCurrency, simpleTrigger);
         }
     }
@@ -39,8 +35,8 @@ namespace CurrenciesProject.Core.Jobs
     {
         public Task Execute(IJobExecutionContext context)
         {
-            var xmlString = Helper.Helper.Instance.GetData().Result;
-            var data = Helper.Helper.Instance.XmlDeserialize<Dates>(xmlString);
+            var xmlString = Helper.Instance.GetData().Result;
+            var data = Helper.Instance.XmlDeserialize<Dates>(xmlString);
             string[] name = new[]
             {
                 "USD",

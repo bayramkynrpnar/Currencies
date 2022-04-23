@@ -30,7 +30,22 @@
       "ProjectGuid": "4356ccc8-2482-4c42-b86a-e4fbcbe13e22",
       "DisplayName": "CurrenciesProject.Business",
       "ColorIndex": 4
+    },
+    "54290d0d-2f6c-40f3-9d03-2681c19723db": {
+      "ProjectGuid": "54290d0d-2f6c-40f3-9d03-2681c19723db",
+      "DisplayName": "CurrenciesProject.Core",
+      "ColorIndex": 5
+    },
+    "e2ba572c-dce1-4edd-9acd-72a5154d5590": {
+      "ProjectGuid": "e2ba572c-dce1-4edd-9acd-72a5154d5590",
+      "DisplayName": "CurrenciesProject.Business.Test",
+      "ColorIndex": 6
+    },
+    "96448373-1ab1-41d2-9468-b126edbb1e16": {
+      "ProjectGuid": "96448373-1ab1-41d2-9468-b126edbb1e16",
+      "DisplayName": "CurrenciesProject.Business.Test",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }

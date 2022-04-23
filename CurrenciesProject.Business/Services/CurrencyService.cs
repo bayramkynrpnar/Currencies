@@ -17,7 +17,7 @@ namespace CurrenciesProject.Business.Services
     public class CurrencyService : ICurrencyService
     {
         /// <summary>
-        /// En son kayıt atılan tariha ait döviz listesini getirir
+        /// En son kayıt atılan tariha ait döviz listesini yüksekten düşüğe sıralayarak getirir
         /// </summary>
         /// <returns></returns>
         public List<CurrentRateDto> ListCurrentRate()
@@ -26,7 +26,8 @@ namespace CurrenciesProject.Business.Services
             {
                 var date = uow.GetRepository<Dates>().GetAll(x => true).Include(x => x.Currency).OrderBy(x => x.Date).LastOrDefault();
                 var currentList = new List<CurrentRateDto>();
-                foreach (var item in date.Currency.OrderBy(x => x.ForexSelling))
+                var orderCurrency = date.Currency.OrderByDescending(x => Convert.ToDouble(x.ForexSelling));
+                foreach (var item in orderCurrency)
                 {
                     currentList.Add(new CurrentRateDto
                     {

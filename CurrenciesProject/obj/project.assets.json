@@ -573,8 +573,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "CurrenciesProject.Data": "1.0.0",
-          "CurrenciesProject.DataAccess": "1.0.0",
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Newtonsoft.Json": "13.0.1",
           "Quartz": "3.4.0",

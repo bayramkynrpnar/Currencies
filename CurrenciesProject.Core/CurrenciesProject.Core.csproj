@@ -13,9 +13,4 @@
     <PackageReference Include="RestSharp" Version="107.3.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\CurrenciesProject.DataAccess\CurrenciesProject.DataAccess.csproj" />
-    <ProjectReference Include="..\CurrenciesProject.Data\CurrenciesProject.Data.csproj" />
-  </ItemGroup>
-
 </Project>

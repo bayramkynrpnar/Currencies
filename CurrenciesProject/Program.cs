@@ -1,6 +1,6 @@
 using CurrenciesProject.Business.Services;
 using CurrenciesProject.Core;
-using CurrenciesProject.Core.Jobs;
+using CurrenciesProject.Business.Jobs;
 using CurrenciesProject.Data.Context;
 using Microsoft.EntityFrameworkCore;
 
@@ -29,6 +29,7 @@ if (app.Environment.IsDevelopment())
 app.UseAuthorization();
 app.UseMiddleware<ExceptionMiddleWare>();
 app.MapControllers();
+//job trigger tetikleniyor
 GetCurrencyScheduler getCurrency = new GetCurrencyScheduler();
 getCurrency.TriggerCurrency();
 app.Run();
